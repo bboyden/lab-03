@@ -1,1 +1,2 @@
 # lab-03
+In this lab, I took some older JavaScript code and gave it like a total complete new look. I refactored different stuff using arrow functions, destructuring, and all the modern syntax I had learned in class. I also got to mess with different for loops, which honestly helped me a ton with understanding objects and arrays way better. Then I made a module and exported it and used require to bring it back in, which was difficult then simple as well as satisfying. I finally used the spread operator and it made things feel very smooth.
